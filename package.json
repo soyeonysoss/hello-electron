@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello electron?",
+  "main": "main.js",
+  "scripts": {
+    "test": "soyeon",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyeonysoss/hello-electron.git"
+  },
+  "keywords": [
+    "hello",
+    "electron"
+  ],
+  "author": "qq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soyeonysoss/hello-electron/issues"
+  },
+  "homepage": "https://github.com/soyeonysoss/hello-electron#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
